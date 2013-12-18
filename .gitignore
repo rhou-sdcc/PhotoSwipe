@@ -1,2 +1,4 @@
 release/*
 /release
+build.number
+.idea/
