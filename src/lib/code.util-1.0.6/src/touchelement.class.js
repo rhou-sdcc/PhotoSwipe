@@ -118,6 +118,10 @@
 				if(Util.Browser.iOS7 && el == window){
 					el = document;
 				}
+
+				if(Util.Browser.iOS8 && el == window){
+					el = document;
+				}
 				
 				Util.Events.add(this.el, 'gesturestart', this.gestureStartHandler);
 				Util.Events.add(this.el, 'gesturechange', this.gestureChangeHandler);
