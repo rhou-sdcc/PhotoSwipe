@@ -1,6 +1,4 @@
-The Code Computerlove team is no longer managing and supporting Photoswipe. But we’re passing it on to you.
-===========================================================================================================
-Thanks for making Photoswipe so successful and we hope that you, the community will continue to make use of it.
+The new version of PhotoSwipe with major improvements is under development and will be released in near future.
 
 
 PhotoSwipe - The web image gallery for your mobile device
@@ -27,7 +25,6 @@ It'd be fantastic to see how you have implemented PhotoSwipe on your site! We're
 
 Latest Release v3.0.5
 ---------------------
-[Download](http://github.com/downloads/codecomputerlove/PhotoSwipe/code.photoswipe-3.0.5.zip)
 
 - Fixed user agent string issues with Firefox for Android
 - Fixed iOS5 black screen issue when using pinch to zoom
